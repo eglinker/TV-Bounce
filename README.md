@@ -10,10 +10,11 @@ ball bouncing style TV video games of the 70s.
 
   This project is released undern the the GNU General 
   Public License, see:
+  
+      http://gnu.org/licenses/licenses.html for details.
+
  
 ## How to Build and Download 
- 
-     http://gnu.org/licenses/licenses.html for details.
  
   To build the game binary file you need to have
   the following files, it can be compiled using avr-gcc:
