@@ -1,7 +1,7 @@
 # TV-Bounce
 TV Bounce, (C) Erich Glinker, July, 2017
 
-(bounce.jpg)
+<center><a href="url"><img  src="bounce.jpg"></a></center>
 
 ## Intro
 
