@@ -1,12 +1,12 @@
 # TV-Bounce
 TV Bounce, (C) Erich Glinker, July, 2017
 
-<center><a href="url"><img  src="bounce.jpg"></a></center>
-
 ## Intro
 
 TV bounce is a TV Video game inspired by all of the 
 ball bouncing style TV video games of the 70s.  
+
+<center><a href="url"><img  src="bounce.jpg"></a></center>
 
   This project is released undern the the GNU General 
   Public License, see:
