@@ -26,7 +26,7 @@ The circuit for the TV Bounce console is centered on an ATMega328P microcontroll
 
 <center><a href="url"><img  src="sche.jpg"></a></center>
 
-Note that the NTSC Video Out signal connects directly to the Analog Video In on a TV. 
+Note that the NTSC Video Out signal connects directly to the Analog Video In on a TV. The resistors attached to the pushbuttons are all 10K.
 
 
 
