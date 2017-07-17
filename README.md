@@ -1,11 +1,17 @@
 # TV-Bounce
 TV Bounce, (C) Erich Glinker, July, 2017
 
+(bounce.jpg)
+
+## Intro
+
 TV bounce is a TV Video game inspired by all of the 
 ball bouncing style TV video games of the 70s.  
 
   This project is released undern the the GNU General 
   Public License, see:
+ 
+## How to Build and Download 
  
      http://gnu.org/licenses/licenses.html for details.
  
@@ -31,6 +37,7 @@ ball bouncing style TV video games of the 70s.
  
   avrdude.exe -C "C:\avrdude\avrdude.conf" -p atmega328p -c arduino -P COM3 -b 115200 -U   flash:w:demo.hex
  
+ ## Credits
  
   This file uses the following sourse code from the AMVTG project - ATmega NTSC  
   Video Text Generator to generate video out, written 
